@@ -1,0 +1,11 @@
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\bin\Debug\net6.0\WebStore.Model.deps.json
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\bin\Debug\net6.0\WebStore.Model.dll
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\bin\Debug\net6.0\WebStore.Model.pdb
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\WebStore.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\WebStore.Model.AssemblyInfoInputs.cache
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\WebStore.Model.AssemblyInfo.cs
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\WebStore.Model.csproj.CoreCompileInputs.cache
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\WebStore.Model.dll
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\refint\WebStore.Model.dll
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\WebStore.Model.pdb
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Model\obj\Debug\net6.0\ref\WebStore.Model.dll

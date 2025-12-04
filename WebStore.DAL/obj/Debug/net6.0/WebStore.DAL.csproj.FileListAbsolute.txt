@@ -13,3 +13,6 @@ D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_
 D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.DAL\obj\Debug\net6.0\refint\WebStore.DAL.dll
 D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.DAL\obj\Debug\net6.0\WebStore.DAL.pdb
 D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.DAL\obj\Debug\net6.0\ref\WebStore.DAL.dll
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.DAL\obj\Debug\net6.0\WebStore.DAL.sourcelink.json
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.DAL\bin\Debug\net6.0\WebStore.DAL.runtimeconfig.json
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.DAL\obj\Debug\net6.0\WebStore.DAL.genruntimeconfig.cache

@@ -17,3 +17,4 @@ D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_
 D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Services\obj\Debug\net6.0\refint\WebStore.Services.dll
 D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Services\obj\Debug\net6.0\WebStore.Services.pdb
 D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Services\obj\Debug\net6.0\ref\WebStore.Services.dll
+D:\Piotr\Studia\Informatyka - studia\semestr VII\Zaawansowane programowanie\ZPI_dom\WebStore.Services\obj\Debug\net6.0\WebStore.Services.sourcelink.json

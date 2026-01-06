@@ -18,17 +18,17 @@ namespace WebStore.Services.ConcreteServices
         {
         }
 
-        public ProductVm AddProduct(AddOrUpdateProductVm addOrUpdateProductVm)
+        public ProductVm AddOrUpdateProduct(AddOrUpdateProductVm addOrUpdateProductVm)
         {
             try
             {
                 if (addOrUpdateProductVm == null)
                     throw new ArgumentNullException("View model parameter is null");
                 var productEntity = Mapper.Map<Product>(addOrUpdateProductVm);
-
-                if (addOrUpdateProductVm.Id.HasValue || addOrUpdateProductVm.Id == 0)
+                if (addOrUpdateProductVm.Id.HasValue && addOrUpdateProductVm.Id > 0)
                     DbContext.Products.Update(productEntity);
-                else DbContext.Products.Add(productEntity);
+                else
+                    DbContext.Products.Add(productEntity);
                 DbContext.SaveChanges();
                 var productVm = Mapper.Map<ProductVm>(productEntity);
                 return productVm;
@@ -64,7 +64,7 @@ namespace WebStore.Services.ConcreteServices
                 var productsQuery = DbContext.Products.AsQueryable();
                 if (filterExpression != null)
                     productsQuery = productsQuery.Where(filterExpression);
-                var productVms = Mapper.Map<IEnumerable<ProductVm>>(productsQuery);
+                var productVms = Mapper.Map<IEnumerable<ProductVm>>(productsQuery.ToList());
                 return productVms;
             }
             catch (Exception ex)

@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore.ViewModels", "WebS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore.Web", "WebStore.Web\WebStore.Web.csproj", "{6F515D85-9485-46BC-9C8B-AF5388D86002}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebStore.Tests", "WebStore.Tests\WebStore.Tests.csproj", "{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{6F515D85-9485-46BC-9C8B-AF5388D86002}.Release|x64.Build.0 = Release|Any CPU
 		{6F515D85-9485-46BC-9C8B-AF5388D86002}.Release|x86.ActiveCfg = Release|Any CPU
 		{6F515D85-9485-46BC-9C8B-AF5388D86002}.Release|x86.Build.0 = Release|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Debug|x64.Build.0 = Debug|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Release|x64.ActiveCfg = Release|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Release|x64.Build.0 = Release|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA0E45CF-702C-4B5D-B884-264CC92C2A3E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
